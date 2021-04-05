@@ -13,7 +13,9 @@ Christmas tree program with snowmans
 First task in C++ with upgrades just for fun.
 The program creat a christmas tree that has snowmans under him in ASCII.
 You can custom your own snowman with items from the inventory. 
-https://user-images.githubusercontent.com/69432977/113629938-c8d6f900-966f-11eb-88a0-9afee84fec10.png
+
+![3](https://user-images.githubusercontent.com/69432977/113629938-c8d6f900-966f-11eb-88a0-9afee84fec10.png)
+
 
 To do so, you must enter a number in an eight character string (via stdin or command line) in the format HNLRXYTB, where each letter is a digit from 1 to 4 that denotes which preset to use for the corresponding section of the snowman.
 H = Hat

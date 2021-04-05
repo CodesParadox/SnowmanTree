@@ -29,13 +29,13 @@ B = Base
 
 
 Template:
-
+```sh
 HHHHHH
 HHHHHH
 X(LNR)Y
 X(TTT)Y
  (BBB)
-
+```
 
 
 ## Technologies
